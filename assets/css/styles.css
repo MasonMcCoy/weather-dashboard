@@ -1,0 +1,16 @@
+header {
+    text-align: center;
+}
+
+aside {
+    margin-right: 25px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-top: 7px;
+}
