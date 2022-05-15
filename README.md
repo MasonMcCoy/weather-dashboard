@@ -5,3 +5,4 @@ Deployed Application:
 https://masonmccoy.github.io/weather-dashboard/
 
 Screenshot of Application:
+https://github.com/MasonMcCoy/weather-dashboard/blob/main/assets/images/application-screenshot.PNG
